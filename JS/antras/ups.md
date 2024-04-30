@@ -3,9 +3,16 @@
 .md - Markdown file
 
 
-Norintiems papildomai pasidometi skaityti cia:
+Norintiems papildomai pasidometi skaityti cia: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## Antro lygio antraste
+
+Kazkoks random tekstas
+
+-   antraste
+-   antraste
+-   antraste
+-   antraste
 
 >Citata
 
